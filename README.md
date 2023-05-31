@@ -7,6 +7,6 @@ associadas."
 Para isso:
 - Foi gerado rankings das onze cidades;
 - O fatuuramento de cada loja;
-A quantidade de produs vendidos em cada loja e;
+- A quantidade de produs vendidos em cada loja e;
 - O valor médio de venda de produtos (Ticket Médio) de cada
 loja.
