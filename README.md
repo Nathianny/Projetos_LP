@@ -1,1 +1,1 @@
-Repositório destinado a publicação dos projetos reproduzidos com os conteúdos da disciplina "LINGUAGEM DE PROGRAMAÇÃO", do Curso Técnico em Informática do Colégio Agrícola Vidal de Negreiros - CAVN-UFPB
+Repositório destinado à publicação dos projetos reproduzidos com os conteúdos da disciplina "LINGUAGEM DE PROGRAMAÇÃO", do Curso Técnico em Informática do Colégio Agrícola Vidal de Negreiros - CAVN-UFPB
